@@ -2,15 +2,17 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Vue(tdd)',
+  title: 'Vue-TDD',
   description: 'TDD con Vue 3.',
   base: '/vue-tdd/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/mylogo.png',  
+    siteTitle: 'Vue-TDD',
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Comenzar', link: '/comenzar/tdd' },
-      { text: 'CaribesTIC', link: 'https://caribestic.github.io/' },      
+      { text: 'ecanquiz', link: 'https://ecanquiz.github.io/' },      
     ],
     sidebar: [{
       text: 'Comenzar',   // required
