@@ -197,7 +197,7 @@ export default defineConfig({
       ]
     }],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/CaribesTIC/vue-tdd' }
+      { icon: 'github', link: 'https://github.com/ecanquiz/vue-tdd' }
     ]
   }
 })
