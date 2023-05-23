@@ -1,8 +1,8 @@
 # Un Curso Acelerado
 
-¡Vamos a saltar directamente a eso! Aprendamos Vue Test Utils (VTU) creando una aplicación Todo simple y escribiendo pruebas sobre la marcha. Esta guía cubrirá cómo:
+¡Vamos a saltar directamente a eso! Aprendamos Vue Test Utils (VTU) creando una aplicación **Todo** simple y escribiendo pruebas sobre la marcha. Esta guía cubrirá cómo:
 
-- Componentes de montaje
+- Montar componentes
 - Buscar elementos
 - Llenar formularios
 - Activar eventos
